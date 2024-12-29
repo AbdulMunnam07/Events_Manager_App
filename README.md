@@ -108,8 +108,8 @@ The above command will run both the fron and the back end at the sametime.
 
 👤 **Getayawkal Tamrat**
 
-- GitHub: [@githubhandle](https://github.com/getssh)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/getayawkal-tamrat/)
+- GitHub: [@githubhandle](https://github.com/AbdulMunnam07)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/munnammalik/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
